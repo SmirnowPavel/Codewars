@@ -1,6 +1,6 @@
 ﻿namespace Codewars
 {
-    internal class Narcissistic
+    public class Narcissistic
 
         //DESCRIPTION:
         //A Narcissistic Number is a positive number which is the sum of its own digits,
